@@ -3,7 +3,7 @@ print("he was 70 years old.")
 print("He really liked the name George,")
 print("But he did not like being 70.")
 char_name = "John"
-char_age = 50
+char_age = "70"
 
 print("There was a man named " + char_name + ",")
 print("he was "+ char_age + " years old.")
