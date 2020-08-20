@@ -1,0 +1,1 @@
+friends = ["Samu","Bunny","Ele"]
