@@ -1,0 +1,18 @@
+lucky_numbers= [4,5,7,16,23,45]
+friends = ["Samu","Bunny","Ele","Doggy","Puggy"]
+friends.extend (lucky_numbers)
+friends.append("Viju")
+print(friends.index("Viju"))
+friends.insert(3,"Viju")
+print(friends)
+print(friends.index("Viju"))
+print(friends.count("Viju"))
+lucky_numbers.sort()
+lucky_numbers.reverse()
+friends2 = friends.copy()
+print(friends2)
+print(lucky_numbers)
+friends.remove("Viju")
+print(friends)
+friends.pop()
+friends.clear()
