@@ -1,4 +1,5 @@
 def cube(x):
     return x*x*x
 
-print(cube(5))
+result = (cube(5))
+print(result)
