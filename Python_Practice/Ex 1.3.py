@@ -1,5 +1,5 @@
 
-#Calculate the Area
+#Area of the Room
 
 # Enter width and length in meters
 width = input("Enter the width of the room (meters):")
